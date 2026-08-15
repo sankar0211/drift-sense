@@ -1,0 +1,20 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Generated datasets and images
+dataset/
+demo_data/
+plot1.png
+plot2.png
+
+# IDEs and environments
+.vscode/
+.idea/
+venv/
+env/
+.env
+
+# MacOS
+.DS_Store
