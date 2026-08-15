@@ -163,7 +163,7 @@ def create_hackathon_pitch():
     # ---------------------------
     add_bullet_slide("GitHub & Video Link", [
         ("GitHub Repository (Mandatory):", 0),
-        ("Link: [Insert your GitHub Repo Link here]", 1),
+        ("Link: https://github.com/sankar0211/drift-sense", 1),
         ("Includes README, robust data generator, and automated inference pipeline.", 2),
         ("Video Link (Recommended):", 0),
         ("Link: [Insert your YouTube/Drive Video Link here]", 1)
